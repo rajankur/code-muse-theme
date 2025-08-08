@@ -44,6 +44,22 @@ Or install via [Open VSX](https://open-vsx.org/extension/rajankur/code-muse-them
 
 ---
 
+## ⚙️ Recommended Editor Settings
+
+Add these to your settings to match the author's preferred setup:
+
+```json
+{
+  "editor.fontFamily": "Operator Mono, Monaspace Neon Var, Cascadia Code, Dank Mono, Cartograph CF, Menlo, Monaco, monospace",
+  "editor.fontSize": 14.5,
+  "editor.lineHeight": 24,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "underline"
+}
+```
+
+---
+
 ## 💡 Why Choose Light Themes?
 
 ### 🧠 **Cognitive Benefits**
