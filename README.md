@@ -1,6 +1,6 @@
 # ✨ Code Muse Light Theme
 
-[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/rajankur/code-muse-light-theme?style=plastic&label=Open%20VSX%20Downloads&color=%23d946ef)](https://open-vsx.org/extension/rajankur/code-muse-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/rajankur/code-muse-light-theme?style=plastic&label=Open%20VSX%20Downloads&color=%23d946ef)](https://open-vsx.org/extension/rajankur/code-muse-theme) [![VSCode Downloads](https://img.shields.io/visual-studio-marketplace/d/rajankur.code-muse-light-theme?style=plastic&label=VSCode%20Downloads&color=%230078d7)](https://marketplace.visualstudio.com/items?itemName=rajankur.code-muse-light-theme)
 
 **Code Muse** is a clean, minimal, and elegant light theme designed for [Cursor](https://cursor.sh) and [VSCode](https://code.visualstudio.com), refined for visual clarity and aesthetic focus.
 
