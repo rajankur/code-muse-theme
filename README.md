@@ -6,7 +6,7 @@
 
 > _The missing light theme for Cursor & VSCode — now with soul._
 
-![Code Muse Light Theme](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.png)
+![Code Muse Light Theme](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.jpg)
 
 ---
 
@@ -150,29 +150,29 @@ Experience the clarity and elegance of Code Muse Light across different programm
 
 #### **JavaScript & TypeScript**
 
-![JavaScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/javascript.png)
-![TypeScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/typescript.png)
+![JavaScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/javascript.jpg)
+![TypeScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/typescript.jpg)
 
 #### **Python & Ruby**
 
-![Python](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.png)
-![Ruby](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/ruby.png)
+![Python](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.jpg)
+![Ruby](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/ruby.jpg)
 
 #### **C++ & Java**
 
-![C++](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/cpp.png)
-![Java](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/java.png)
+![C++](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/cpp.jpg)
+![Java](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/java.jpg)
 
 #### **Go & Rust**
 
-![Go](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/go.png)
-![Rust](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/rs.png)
+![Go](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/go.jpg)
+![Rust](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/rs.jpg)
 
 #### **Swift & Flutter**
 
-![Swift](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/swift.png)
-![Flutter](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/flutter.png)
+![Swift](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/swift.jpg)
+![Flutter](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/flutter.jpg)
 
 #### **Lua**
 
-![Lua](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/lua.png)
+![Lua](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/lua.jpg)
