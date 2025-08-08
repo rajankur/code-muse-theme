@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Code Muse Light",
+        "label": "Code Muse Light Theme",
         "uiTheme": "vs",
         "path": "./themes/code-muse-light-color-theme.json"
       }
