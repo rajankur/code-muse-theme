@@ -6,7 +6,7 @@
 
 > _The missing light theme for Cursor & VSCode — now with soul._
 
-![Code Muse Light Theme](./screenshots/python.png)
+![Code Muse Light Theme](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.png)
 
 ---
 
@@ -138,8 +138,7 @@ MIT
 
 Ready to experience coding with clarity, comfort, and consistency? Switch to **Code Muse Light** today and discover why the best developers choose light themes for their most productive work.
 
-> *"In the world of code, clarity is king. Light themes are the path to enlightenment."* — The Code Muse Philosophy
-
+> _"In the world of code, clarity is king. Light themes are the path to enlightenment."_ — The Code Muse Philosophy
 
 ---
 
@@ -150,24 +149,30 @@ Ready to experience coding with clarity, comfort, and consistency? Switch to **C
 Experience the clarity and elegance of Code Muse Light across different programming languages:
 
 #### **JavaScript & TypeScript**
-![JavaScript](./screenshots/javascript.png)
-![TypeScript](./screenshots/typescript.png)
+
+![JavaScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/javascript.png)
+![TypeScript](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/typescript.png)
 
 #### **Python & Ruby**
-![Python](./screenshots/python.png)
-![Ruby](./screenshots/ruby.png)
+
+![Python](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/python.png)
+![Ruby](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/ruby.png)
 
 #### **C++ & Java**
-![C++](./screenshots/cpp.png)
-![Java](./screenshots/java.png)
+
+![C++](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/cpp.png)
+![Java](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/java.png)
 
 #### **Go & Rust**
-![Go](./screenshots/go.png)
-![Rust](./screenshots/rs.png)
+
+![Go](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/go.png)
+![Rust](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/rs.png)
 
 #### **Swift & Flutter**
-![Swift](./screenshots/swift.png)
-![Flutter](./screenshots/flutter.png)
+
+![Swift](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/swift.png)
+![Flutter](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/flutter.png)
 
 #### **Lua**
-![Lua](./screenshots/lua.png)
+
+![Lua](https://raw.githubusercontent.com/rajankur/code-muse-theme/refs/heads/master/screenshots/lua.png)
