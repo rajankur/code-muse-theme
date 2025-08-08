@@ -1,0 +1,32 @@
+{
+  "name": "code-muse-light-theme",
+  "displayName": "Code Muse Light Theme",
+  "description": "Code Muse is a clean, minimal, and elegant light theme designed for Cursor and VSCode, refined for visual clarity and aesthetic focus.",
+  "version": "1.0.0",
+  "publisher": "rajankur",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajankur/code-muse-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajankur/code-muse-theme/issues"
+  },
+  "homepage": "https://github.com/rajankur/code-muse-theme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code Muse Light",
+        "uiTheme": "vs",
+        "path": "./themes/code-muse-light-color-theme.json"
+      }
+    ]
+  }
+}
