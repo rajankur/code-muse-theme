@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Install vsce and ovsx
-        run: npm install -g @vscode/vsce ovsx
+        run: npm install -g @vscode/vsce@2.18.0 ovsx@0.5.0
 
       - name: Publish to VSCode Marketplace
         run: vsce publish -p ${{ secrets.VSCE_TOKEN }}
