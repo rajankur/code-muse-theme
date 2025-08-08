@@ -7,25 +7,24 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Use Node.js v18.17.1 (force override)
+      - name: Use Node.js 20.18.1
         uses: actions/setup-node@v4
         with:
-          node-version: 18.17.1
+          node-version: '20.18.1'
           cache: 'npm'
 
-      - name: Verify Node version (ensure override worked)
-        run: node -v
+      - name: Verify Node
+        run: node -v && npm -v
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Install vsce and ovsx (pinned versions)
-        run: npm install -g @vscode/vsce@2.18.0 ovsx@0.5.0
+      - name: Install vsce and ovsx
+        run: npm install -g @vscode/vsce ovsx
 
       - name: Publish to VSCode Marketplace
         run: vsce publish -p ${{ secrets.VSCE_TOKEN }}
